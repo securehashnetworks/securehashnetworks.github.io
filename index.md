@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Maquinas Virtuales
+# Maquinas Virtuale
 
 
 
